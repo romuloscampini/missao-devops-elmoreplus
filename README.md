@@ -1,6 +1,7 @@
 # elmoreplus
 This application was generated using JHipster 4.14.3, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.14.3](http://www.jhipster.tech/documentation-archive/v4.14.3).
 
+
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
