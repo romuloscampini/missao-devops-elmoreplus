@@ -4,7 +4,7 @@
 
     <groupId>br.com.elmoreplus</groupId>
     <artifactId>elmoreplus</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.0-RC</version>
     <packaging>war</packaging>
     <name>Elmoreplus</name>
 
