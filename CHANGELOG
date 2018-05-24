@@ -1,10 +1,12 @@
 Nunca se esqueça do seu CHANGELOG!
 Descreva a evolução do seu software! :)
 
+# v1.1.1
+- Bugfix #1 Corrigido
+
 # v.1.1.0
 - Novo Rodapé Azul Sucesso  
 
 # v.1.0.0 Kickoff
 - Feature: Login / Logout
 - Administração
-- Bugfix #1 Corrigido
