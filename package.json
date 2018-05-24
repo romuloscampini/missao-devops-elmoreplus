@@ -1,7 +1,7 @@
 {
   "name": "elmoreplus",
-  "version": "0.0.0",
-  "description": "Description for elmoreplus",
+  "version": "1.0.0",
+  "description": "A Rede Social mais Descolada da Cidade!",
   "private": true,
   "license": "UNLICENSED",
   "cacheDirectories": [
